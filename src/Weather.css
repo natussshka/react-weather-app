@@ -58,3 +58,8 @@
   top: -34px;
   margin-left: 0px;
 }
+
+.Weather .unit a {
+  text-decoration: none;
+  color: rgb(150, 115, 148);
+}
