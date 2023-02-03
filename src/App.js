@@ -15,7 +15,15 @@ export default function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            open-sourced on GitHub.
+            open-sourced on GitHub
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://spiffy-eclair-bfee8b.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            hosted on Netlify
           </a>
         </footer>
       </div>
